@@ -7,11 +7,14 @@ Generates a modern Python client from OpenAPI 3.x documents.
 
 Under the hood it uses: https://github.com/triaxtec/openapi-python-client to generate a client.
 
-# Log
+## Install
+
+create a venv, activate it and run: `pip install -r requirements.txt`
+
+## Log
 
 Created initial client with:
 
 ```bash
 openapi-python-client generate --url https://YOUR_ORCHESTRATOR_URI/api/openapi.json
 ```
-
