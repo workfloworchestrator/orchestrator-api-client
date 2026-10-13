@@ -1,1 +1,1 @@
-openapi-python-client==0.9.0
+openapi-python-client==0.29.1
